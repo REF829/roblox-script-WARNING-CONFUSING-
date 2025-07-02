@@ -1,5 +1,5 @@
 print("not loaded but loaded but not loaded but loaded but not loaded but loaded but not loaded but loaded but not loaded not loaded but loaded but not loaded but loaded but not loaded but loaded but not loaded but loaded but not loaded") -- print to confuse the world
 SecurityCapabilities = true
 Part.invisible(nil)(nil) -- random line of code
-if true then false if false then true if true then false if false then true if true then false if true then false if false then true if true then false if false then true if true then false if true then false if false then true if true then false -- just 100% dumb
-error("")
+if true then false if false then true if true then false if false then true if true then false if true then false if false then true if true then false if false then true if true then false if true then false if false then true if true then false -- just 100% dυmb
+error("") -- stυpἰd at its max but no-error mastermind
